@@ -12,7 +12,6 @@ The project contains two parts.
      
   - MNIST:
     Comparison of CNN with densely connected network  
-  - `word2vec_poc_nce_train.py`:
 
 
 ## How To Run
