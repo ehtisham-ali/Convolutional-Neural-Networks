@@ -5,13 +5,16 @@ In this project, a comparision of CNN with simple densely connected neural netwo
 
 ## File Description
 
-The project contains two parts.
+The project contains three parts.
 
   - Happy House Folder:
     The application of CNN to predict the happiness of face in an image  
      
   - MNIST:
-    Comparison of CNN with densely connected network  
+    Comparison of CNN with densely connected network
+
+  - YOLO:
+  	The implementation of YOLO algorithm in tensorflow for object detection and localization.   
 
 
 ## How To Run
